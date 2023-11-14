@@ -1,3 +1,3 @@
-# 4_MAC-change
+# MAC-change
 
 This file spoofs the in-built wireless NIC
